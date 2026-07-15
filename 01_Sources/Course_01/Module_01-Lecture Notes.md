@@ -34,7 +34,7 @@
      It is the practice of collecting and analyzing data on the people who make up the company's workforce  in order to  gain insights to improve how the company operates 
 ### **How Data Analyst Approach Task**
 
-- **Six Phases of Data Analysis
+- **Six Phases of Data Analysis**
 	-  **Ask Phase :** you will work to understand the problem/ challenge to be solved or questions to be asked , this assigned to you by stakeholder
 	- **Prepare Phase:** collect data you'll need to solve problem or answer the questions and identify data sources, gather data, and verify that it is accurate and useful 
 	- **Process Phase :** clean and organize your data and remove any inconsistencies, filling any missing value , and changing the data format that is easier to work with, your ensuring the data is ready before you begin the analysis
