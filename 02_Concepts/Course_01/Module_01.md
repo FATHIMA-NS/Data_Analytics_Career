@@ -1,5 +1,5 @@
 ---
-date: 2026-07-14
+date: 2026-07-15
 tags:
   - Foundations
   - Module_01
@@ -68,12 +68,13 @@ Specialization is necessary because one person cannot know everything. The domai
 
 While different models exist, the **core concepts** remain consistent across all frameworks.
 
-|**Process Model**|**Phases / Steps**|
+|**Process Model**|**Key Phases / Steps**|
 |---|---|
 |**Standard Lifecycle**|Ask, Prepare, Process, Analyze, Share, Act|
 |**EMC (Dell EMC)**|Discovery, Pre-Processing, Model Planning, Model Building, Communication, Operationalize|
 |**SAS (Iterative)**|Ask, Prepare, Explore, Model, Implement, Act, Evaluate|
-|**Big Data Process**|Business Case, Identification, Acquisition/Filtering, Extraction, Validation/Cleaning, Aggregation/Representation, Analysis, Visualization, Utilization|
+|**Project-Based**|Identify the problem, Designing data requirements, Pre-processing data, Performing data analysis, Visualizing data|
+|**Big Data Process**|Business case evaluation, Data identification, Data acquisition and filtering, Data extraction, Data Validation and cleaning, Data aggregation and representation, Data analysis, Data visualization, Utilization of analysis result|
 
 _Note: The **SAS process** is frequently visualized as an infinite symbol to denote its iterative, repeatable nature._
 
@@ -128,3 +129,90 @@ Analytical skills are the qualities and characteristics associated with solving 
 4. **Data Design:** How you organize and structure information.
     
 5. **Data Strategy:** Managing the people, processes, and tools involved in analytics.
+
+## Section 4: Analytical Thinking for Effective Outcomes
+
+### Definition
+
+**Analytical Thinking :** Identifying and defining a problem and then solving it by using data in an organized, step-by-step manner.
+
+### The 5 Key Aspects of Analytical Thinking
+
+1. **Visualization :** Graphical representation of information.
+    
+2. **Strategy :** Using data and facts to plan goals and the path to achieve them.
+    
+3. **Problem-orientation :** Keeping the problem at the top of your mind throughout the entire project.
+    
+4. **Correlation :** Having a relationship does not mean they are similar. **Remember :** ***Correlation does not equal causation***.
+    
+5. **Big-Picture and Detail-Oriented Thinking :** The ability to see the large goal while simultaneously focusing on the specific details to execute the plan.
+    
+
+### The Analytical Mindset
+
+Analysts must think critically to ask the right questions and creatively to find new, unexpected answers.
+
+- **Root Cause :** The reason why a problem occurs. Identifying this prevents the problem from happening again.
+    
+
+#### Three Questions to Improve Analysis
+
+1. **Ask "Why" 5 times :** The final "Why" often yields surprising insights and useful solutions.
+    
+2. **Gap Analysis :** Examining how a process works currently to understand how to get to the desired future state.
+    
+3. **What did we not consider before?** : A method to identify missing information or procedures to make better decisions.
+    
+
+### Data-Driven Decision-Making (DDDM)
+
+DDDM helps businesses verify theories, understand challenges, support objectives, and make plans.
+
+### The Five Essential Skills for DDDM
+
+- **Curiosity & Context :** Seeing patterns in daily life; using context to make predictions.
+    
+- **Technical Mindset :** Training yourself to seek facts rather than relying on "gut feelings."
+    
+- **Data Design :** Organizing information logically to make it accessible.
+    
+- **Data Strategy :** Managing the people, processes, and tools; requires team alignment.
+    
+
+### Real-World Examples & Case Studies
+
+##### Examples
+
+- **Ice Cream :** Instead of guessing flavors, survey customers to match real demand.
+    
+- **Employee Perks :** Instead of assuming a dress code change is needed, use a survey to discover that transit cards are actually preferred.
+    
+
+#### Case Study A: Google People Analytics
+
+- **Problem :** Determine the value of managers (Are they needed, or should everyone be an individual contributor?).
+    
+- **Process :** Analyzed performance reviews and surveys. Plotted data on a graph and split into quartiles to compare top and bottom performers.
+    
+- **Refinement :** Launched an awards program and interviewed managers to isolate specific successful behaviors.
+    
+- **Outcome :** Identified key management behaviors and created a new evaluation procedure.
+    
+
+#### Case Study B: Nonprofits & Journalism
+
+- **Problem :** How can journalists write more impactful stories for nonprofits?
+    
+- **Process :** Used a tracker to monitor story topics, clicks, traffic, comments, and shares.
+    
+- **Outcome :** Evaluated engagement to provide recommendations to journalists, ultimately motivating readers to volunteer and donate.
+    
+
+### Key Lessons
+
+- **Visualization is essential :** Graphs and quartiles reveal patterns hidden in raw data.
+    
+- **Actionable Insights :** Raw data alone is not enough; you must dig deeper (via interviews or behavioral analysis) to find steps you can act on.
+    
+- **Frameworks :** Whether at a tech giant or a nonprofit, the core framework for using data to solve problems remains the same.
