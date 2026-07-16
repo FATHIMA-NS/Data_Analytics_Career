@@ -1,3 +1,10 @@
+---
+Updated: 2026-07-15
+tags:
+  - Foundations
+  - Module_01
+---
+
 # **Foundation: Data , Data Everywhere**
 
 ## **Introduction:**

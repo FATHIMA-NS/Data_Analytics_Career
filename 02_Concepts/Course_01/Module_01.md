@@ -3,7 +3,7 @@ date: 2026-07-15
 tags:
   - Foundations
   - Module_01
-Lecture Notes: "[[Module_01-Lecture Notes]]"
+Parent: "[[Module_01-Lecture Notes]]"
 ---
 # Foundations: Data & Analysis
 
@@ -23,14 +23,14 @@ Lecture Notes: "[[Module_01-Lecture Notes]]"
 
 This is the framework for every data project you will undertake.
 
-|**Phase**|**Objective**|
-|---|---|
-|**Ask**|Understand the business problem defined by the stakeholder.|
-|**Prepare**|Collect, identify, and verify accurate data sources.|
-|**Process**|Clean, organize, and format data to ensure consistency.|
-|**Analyze**|Perform calculations and identify patterns/trends.|
-|**Share**|Visualize and present findings (e.g., Sheets, Tableau).|
-|**Act**|Apply insights to implement business strategies.|
+| **Phase**   | **Objective**                                               |
+| ----------- | ----------------------------------------------------------- |
+| **Ask**     | Understand the business problem defined by the stakeholder. |
+| **Prepare** | Collect, identify, and verify accurate data sources.        |
+| **Process** | Clean, organize, and format data to ensure consistency.     |
+| **Analyze** | Perform calculations and identify patterns/trends.          |
+| **Share**   | Visualize and present findings (e.g., Sheets, Tableau).     |
+| **Act**     | Apply insights to implement business strategies.            |
 
 ### Data Types in Spreadsheets
 
