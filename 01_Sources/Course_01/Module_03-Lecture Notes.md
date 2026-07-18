@@ -123,3 +123,50 @@ SQL isn't just about code; it's about solving problems.
 - **Adding notes:** `-- This is a comment`
     
 - **Renaming fields:** `SELECT column AS alias_name`
+
+## Planning Data Visualization
+
+### 1. The 3-Step Visualization Process
+
+1. **Explore (Patterns):** Identify trends, behaviors, or correlations in your raw data (e.g., discovering that geography impacts sales).
+    
+2. **Plan (Strategy):** Determine what your audience needs to know. Tailor the visual to the decision they need to make.
+    
+3. **Create (Execution):** Iterate. Try different formats until the story is clear. Don't be afraid to experiment with different chart types.
+    
+
+### 2. Choosing the Right Visual
+
+Use this as a quick reference when planning your reports:
+
+|**Visual Type**|**Best Used For**|
+|---|---|
+|**Line Charts**|Tracking trends or changes **over time**.|
+|**Maps**|Connecting data to **geographic locations**.|
+|**Donut Charts**|Showing parts-to-a-whole / **Customer segments**.|
+|**Bar Charts**|Comparing quantities across different categories (e.g., total visitors).|
+
+### 3. The Visualization Toolkit
+
+- **Spreadsheets (Excel/Sheets):** Best for quick, simple visualizations and initial exploration.
+    
+- **Tableau:** A powerful, specialized tool for creating **interactive dashboards**. Use this when you need stakeholders to "click and explore" the data.
+    
+- **Programming (Python/R):**
+    
+    - **Python:** Uses **Libraries** (collections of pre-written code).
+        
+        - _Matplotlib:_ Flexible, foundation for static/interactive plots.
+            
+        - _Seaborn:_ Creates professional, polished statistical graphics easily.
+            
+        - _Plotly:_ Best for interactive web-based graphs.
+            
+    - **R/RStudio (Posit):** A professional-grade environment for high-level data visualization and analysis.
+        
+
+### 💡 Analyst Best Practice: The "Storyteller" Mindset
+
+- **Don't force the data:** If your analysis shows a trend, choose the visual that makes that trend _obvious_ to a non-technical manager.
+    
+- **Tool Agnostic:** You don't need to know every tool at once. Focus on understanding the **principles** of why a chart works. If you understand the goal, you can learn the software later.

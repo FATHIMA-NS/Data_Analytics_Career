@@ -14,3 +14,8 @@
 
 - [[Module 02 - Data Analysis Foundation]] 
 -  [[Module 03 - Spreadsheet Basics]]
+## 🔍 Job Hunting
+
+- [[Data analyst roles and job descriptions]]
+- [[Interview Best Practice for Data Analysts]]
+- 
